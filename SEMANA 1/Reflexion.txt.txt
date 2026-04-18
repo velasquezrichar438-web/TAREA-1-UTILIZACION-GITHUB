@@ -1,0 +1,9 @@
+El uso responsable de la información en internet está relacionado con la participación ciudadana porque las personas toman decisiones basadas en lo que leen y comparten. 
+Si compartimos información falsa, podemos afectar la opinión pública y causar problemas sociales. 
+Por eso es importante verificar fuentes, contrastar datos y pensar antes de publicar. 
+La ciudadanía digital implica actuar con ética y respeto en los espacios digitales. 
+Además, en el trabajo técnico es clave mantener orden y evidencia del proceso realizado. 
+Herramientas como Git permiten registrar cambios, guardar versiones y documentar el avance de un proyecto. 
+Git también ayuda a trabajar de forma organizada y transparente. 
+De esta manera se relaciona con la responsabilidad, porque todo queda registrado y se puede verificar. 
+Así, la tecnología apoya tanto la comunicación responsable como el trabajo colaborativo.
